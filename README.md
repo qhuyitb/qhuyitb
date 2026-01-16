@@ -22,11 +22,11 @@
 </p>
 <!-- Socials -->
 <div align="center">
-  <!-- Gmail -->
-  <a href="mailto:toquanghuy1719@gmail.com" target="_blank">
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/quang.huy.196533?locale=vi_VN" target="_blank">
     <img
-      src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Gmail" />
+      src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+      alt="Facebook" />
   </a>
 
   <!-- LinkedIn -->
@@ -35,13 +35,19 @@
       src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn" />
   </a>
-
-  <!-- Facebook -->
-  <a href="https://www.facebook.com/quang.huy.196533?locale=vi_VN" target="_blank">
+  <a href="https://huggingface.co/qhuyisthebest" target="_blank">
+  <img
+    src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"
+    alt="Hugging Face" />
+</a>
+<!-- Gmail -->
+  <a href="mailto:toquanghuy1719@gmail.com" target="_blank">
     <img
-      src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
-      alt="Facebook" />
+      src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail" />
   </a>
+
+  
 </div>
 
 
